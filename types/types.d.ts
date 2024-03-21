@@ -116,7 +116,7 @@ declare global {
          * Create a new DataTable, returning a DataTables API instance.
          * @param opts Configuration settings
          */
-        DataTable: JQueryDataTableApi;
+        DataTable1: JQueryDataTableApi;
 
         /**
          * Create a new DataTable, returning a jQuery object, extended
@@ -124,7 +124,7 @@ declare global {
          * DataTables API.
          * @param opts Configuration settings
          */
-        dataTable: JQueryDataTableJq;
+        dataTable1: JQueryDataTableJq;
     }
 }
 
